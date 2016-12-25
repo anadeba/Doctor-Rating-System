@@ -1,5 +1,2 @@
 # Doctor-Rating-System
-Unfortunately there is no central repository for doctors and rating methodology available in India. 
-This project is to show case doctors rating model.
-We pulled raw data from Health website Practo and tried to rate doctors based on their qualification, experience, patient feedbacks.
-
+Building a rating system for healthcare services in Indian context is fairly new as well as massively important as this industry witnesses significant growth and coming more so from private sector. There is still significant reliance on ‘word of mouth’ to decide which doctor to go for and patients often falling under the trap in absence of a reliable source. Nothing can be more fulfilling and satisfying in even attempting to build a framework/ approach than can help millions to make more informed lifesaving decision.
